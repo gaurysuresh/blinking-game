@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "gamover",
+  "identifier": "texture:17883-099545ce-649f-4340-a121-2a86019c2604",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "19ef2a0aeb2a7a5f436b3be147dc42af",
+  "assetLocator": "textures/gamover.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "19ef2a0aeb2a7a5f436b3be147dc42af",
+      "colorCount": 10359,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.055865585482255,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

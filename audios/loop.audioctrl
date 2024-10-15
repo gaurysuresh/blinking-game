@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "loop",
+  "identifier": "playback_controller_model:12708-9740ade4-ec48-4d0f-8484-ccb837d04da4",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:12236-9740ade4-ec48-4d0f-8484-ccb837d04da4"
+}

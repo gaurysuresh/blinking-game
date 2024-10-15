@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "gameovercnrter",
+  "identifier": "playback_controller_model:9900-9740ade4-ec48-4d0f-8484-ccb837d04da4",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:9436-9740ade4-ec48-4d0f-8484-ccb837d04da4"
+}
